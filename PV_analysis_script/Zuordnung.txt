@@ -1,0 +1,3 @@
+xaa.txt	xaaanalyzed
+xab.txt	xabanalyzed
+xac.txt	xacanalyzed
