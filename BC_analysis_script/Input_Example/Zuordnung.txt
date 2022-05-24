@@ -1,0 +1,9 @@
+Sample1.txt	cDNA_M1_Aa
+Sample2.txt	cDNA_M1_At
+Sample3.txt	cDNA_M1_BlC
+Sample4.txt	cDNA_M1_B
+Sample5.txt	cDNA_M1_C
+Sample6.txt	cDNA_M1_Di
+Sample7.txt	cDNA_M1_Du
+Sample8.txt	cDNA_M1_Eye
+Sample9.txt	cDNA_M1_FatB
