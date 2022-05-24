@@ -6,6 +6,6 @@ Rapti K et al., 2022.
 There are two folders in this repository.
 
 The first folder contains the scripts and input and files used for the analysis of peptide display libraries
-""
+"PV_analysis_script"
 The second folder contains the scripts and input and files used for the analysis of barcoded libraries. 
-""
+"BC_analysis_script"
